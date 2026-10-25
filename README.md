@@ -24,9 +24,9 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-**Name:** [YOUR NAME]
-**LinkedIn:** [linkedin.com/in/yourprofile]
-**GitHub:** [github.com/yourusername]
+**Name:** GODFRED BONNAH
+**LinkedIn:** www.linkedin.com/in/godfred-bonnah-b18a5b200
+**GitHub:** https://github.com/godfredbonnah-iam 
 **Status:** In progress
 
 ---
